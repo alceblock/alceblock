@@ -1,16 +1,18 @@
-## Hi there 👋
+New account AI focused.
 
-<!--
-**alceblock/alceblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About Me 🙋**
 
-Here are some ideas to get you started:
+- 🧑‍💻 AI engineer | ex Blockchain  (@ freelance) and Backend (@ [HiWayMedia](https://hiway.media/it)) engineer
+- 🚀 currently learning/experimenting/working with ML, Deep Learning and more
+- 🎓 MSc AI Engineering (EQF6) ongoing|expected end June 2026 @ [ProfessionAI](https://www.profession.ai) - BA Philosophy, tech oriented, @ [Milan University](https://www.unimi.it/it)
+- 📧 Reach me at: alceblockdev@gmail.com 
+- 🏡 Valencia (🇪🇸) ~~Sydney, AUS (🇦🇺)~~ ~~Milan (🇮🇹)~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more:
+
+<p>
+  <a href="https://www.linkedin.com/in/aleandro-ceruti" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Aleandro%20Ceruti-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
