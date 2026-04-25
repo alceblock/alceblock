@@ -2,9 +2,9 @@ New account AI focused.
 
 ### **About Me 🙋**
 
-- 🧑‍💻 AI engineer | ex Blockchain  (@ freelance) and Backend (@ [HiWayMedia](https://hiway.media/it)) engineer
+- 🧑‍💻 AI engineer | ex Blockchain (~~@ freelance~~) and Backend (~~@ [HiWayMedia](https://hiway.media/it)~~) engineer
 - 🚀 currently learning/experimenting/working with ML, Deep Learning and more
-- 🎓 MSc AI Engineering (EQF6) ongoing|expected end June 2026 @ [ProfessionAI](https://www.profession.ai) - BA Philosophy, tech oriented, @ [Milan University](https://www.unimi.it/it)
+- 🎓 MSc AI Engineering (EQF6) ongoing | expected end June 2026 @ [ProfessionAI](https://www.profession.ai) - BA Philosophy, tech oriented, @ [Milan University](https://www.unimi.it/it)
 - 📧 Reach me at: alceblockdev@gmail.com 
 - 🏡 Valencia (🇪🇸) ~~Sydney, AUS (🇦🇺)~~ ~~Milan (🇮🇹)~~
 
