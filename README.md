@@ -1,5 +1,8 @@
 New account AI focused.
 
+**AI Engineering Projects** — MSc in AI Engineering
+A collection of applied projects covering Machine Learning, Deep Learning, Computer Vision, Generative AI, XAI, Reinforcement Learning and MLOps.
+
 ### **About Me 🙋**
 
 - 🧑‍💻 AI engineer | ex Blockchain (~~@ freelance~~) and Backend (~~@ [HiWayMedia](https://hiway.media/it)~~) engineer
