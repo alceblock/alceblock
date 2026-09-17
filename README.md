@@ -30,7 +30,7 @@ For more:
 * [animal-detection-autonomous-vehicles](https://github.com/alceblock/animal-detection-autonomous-vehicles) - Deep Learning - ......Brief description.
 * [sentiment-analysis-MLOps](https://github.com/alceblock/sentiment-analysis-MLOps) - MLOps - ......Brief description.
 * [exotic-fruit-recognition](https://github.com/alceblock/exotic-fruit-recognition) - Models and Algorithms - ......Brief description.
-* [real-estate-price-prediction](https://github.com/alceblock/real-estate-price-prediction) - ML Fundamentals - ......Brief description.
+* [real-estate-price-prediction](https://github.com/alceblock/real-estate-price-prediction) - ML Fundamentals - Comparative real estate price prediction using Ridge, Lasso, and Elastic Net regressions with polynomial feature expansion and cross-validation.
 * [cpp-CRM](https://github.com/alceblock/cpp-CRM) - CRM built in C++.
 
 
