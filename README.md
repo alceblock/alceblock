@@ -31,6 +31,6 @@ For more:
 * [sentiment-analysis-MLOps](https://github.com/alceblock/sentiment-analysis-MLOps) - MLOps - ......Brief description.
 * [exotic-fruit-recognition](https://github.com/alceblock/exotic-fruit-recognition) - Models and Algorithms - ......Brief description.
 * [real-estate-price-prediction](https://github.com/alceblock/real-estate-price-prediction) - ML Fundamentals - Real estate price prediction using regression regularization to design a balanced model via Ridge, Lasso, and Elastic Net regressions with polynomial feature expansion and cross-validation.
-* [cpp-CRM](https://github.com/alceblock/cpp-CRM) - CRM built in C++.
+* [cpp-CRM](https://github.com/alceblock/cpp-CRM) - A production-ready C++ CRM engine utilizing object-oriented inheritance, hash-map constraints, and a fault-tolerant CSV persistence layer for real estate client and interaction management.
 
 
