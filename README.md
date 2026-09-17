@@ -20,3 +20,9 @@ For more:
 **What you can find here:**
 - **AI Engineering Projects**. A collection of applied projects covering Machine Learning, Deep Learning, Computer Vision, Generative AI, XAI, Reinforcement Learning and MLOps.
 
+### Projects:
+
+* [name-next-project](https://github.com) - Brief description.
+* [cpp-CRM](https://github.com/alceblock/cpp-CRM) - CRM built in C++.
+
+
