@@ -27,8 +27,8 @@ For more:
 * [reinforcement-learning-cybersecurity](https://github.com/alceblock/reinforcement-learning-cybersecurity) - Reinforcement Learning - ......Brief description.
 * [flower-recognition-agritech](https://github.com/alceblock/flower-recognition-agritech) - Computer Vision - ......Brief description.
 * [food-image-classification](https://github.com/alceblock/food-image-classification) - Deep Learning with PyTorch - ......Brief description.
-* [animal-detection-autonomous-vehicles](https://github.com/alceblock/animal-detection-autonomous-vehicles) - Deep Learning - ......Brief description.
-* [sentiment-analysis-MLOps](https://github.com/alceblock/sentiment-analysis-MLOps) - MLOps - ......Brief description.
+* [animal-detection-autonomous-vehicles](https://github.com/alceblock/animal-detection-autonomous-vehicles) - Deep Learning - Computer vision classification pipeline using Convolutional Neural Networks (CNN) with batch normalization and global pooling to distinguish vehicles from animals for smart mobility safety.
+* [sentiment-analysis-MLOps](https://github.com/alceblock/sentiment-analysis-MLOps) - MLOps - Automated sentiment analysis and online reputation monitoring pipeline integrating the Twitter-RoBERTa model with a complete CI/CD and production-ready MLOps retraining workflow.
 * [exotic-fruit-recognition](https://github.com/alceblock/exotic-fruit-recognition) - Models and Algorithms - Automated fruit classification using the K-Nearest Neighbors (KNN) algorithm with hyperparameter optimization and cross-validation for high-accuracy quality control.
 * [real-estate-price-prediction](https://github.com/alceblock/real-estate-price-prediction) - ML Fundamentals - Real estate price prediction using regression regularization to design a balanced model via Ridge, Lasso, and Elastic Net regressions with polynomial feature expansion and cross-validation.
 * [cpp-CRM](https://github.com/alceblock/cpp-CRM) - A production-ready C++ CRM engine utilizing object-oriented inheritance, hash-map constraints, and a fault-tolerant CSV persistence layer for real estate client and interaction management.
