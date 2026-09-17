@@ -22,7 +22,15 @@ For more:
 
 ### Projects:
 
-* [name-next-project](https://github.com) - Brief description.
+* [XAI-banking-compliance](https://github.com/alceblock/XAI-banking-compliance) - Brief description.
+* [power-plant-security-augmentation](https://github.com/alceblock/power-plant-security-augmentation) - Brief description.
+* [reinforcement-learning-cybersecurity](https://github.com/alceblock/reinforcement-learning-cybersecurity) - Brief description.
+* [flower-recognition-agritech](https://github.com/alceblock/flower-recognition-agritech) - Brief description.
+* [food-image-classification](https://github.com/alceblock/food-image-classification) - Brief description.
+* [animal-detection-autonomous-vehicles](https://github.com/alceblock/animal-detection-autonomous-vehicles) - Brief description.
+* [sentiment-analysis-MLOps](https://github.com/alceblock/sentiment-analysis-MLOps) - Brief description.
+* [exotic-fruit-recognition](https://github.com/alceblock/exotic-fruit-recognition) - Brief description.
+* [real-estate-price-prediction](https://github.com/alceblock/real-estate-price-prediction) - Brief description.
 * [cpp-CRM](https://github.com/alceblock/cpp-CRM) - CRM built in C++.
 
 
