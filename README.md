@@ -1,6 +1,6 @@
 New account AI focused.
 
-**AI Engineering Projects** — MSc in AI Engineering
+**AI Engineering Projects** — MSc in AI Engineering.<br>
 A collection of applied projects covering Machine Learning, Deep Learning, Computer Vision, Generative AI, XAI, Reinforcement Learning and MLOps.
 
 ### **About Me 🙋**
