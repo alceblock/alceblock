@@ -17,6 +17,6 @@ For more:
 </p>
 
 
-What you can find here:
+**What you can find here:**
 - **AI Engineering Projects**. A collection of applied projects covering Machine Learning, Deep Learning, Computer Vision, Generative AI, XAI, Reinforcement Learning and MLOps.
 
