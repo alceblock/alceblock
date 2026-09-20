@@ -22,8 +22,8 @@ For more:
 
 ### Projects:
 
-* [XAI-banking-compliance](https://github.com/alceblock/XAI-banking-compliance) - Explainable AI (XAI) - ......Brief description.
-* [power-plant-security-augmentation](https://github.com/alceblock/power-plant-security-augmentation) - Generative AI - ......Brief description.
+* [XAI-banking-compliance](https://github.com/alceblock/XAI-banking-compliance) - Explainable AI (XAI) - XAI auditing framework evaluating a fine-tuned DenseNet-121 architecture on MNIST via multi-modal saliency maps, paired with an inherently transparent quadrant-density Decision Tree.
+* [power-plant-security-augmentation](https://github.com/alceblock/power-plant-security-augmentation) - Generative AI - Advanced pipeline leveraging multi-modal text-to-image synthesis to automatically expand training datasets and structurally improve deep vision classifier robustness under strict data-scarcity constraints.
 * [reinforcement-learning-cybersecurity](https://github.com/alceblock/reinforcement-learning-cybersecurity) - Reinforcement Learning - Advanced network defense simulation engine applying SARSA and Double Deep Q-Network (DDQN) agents within the gym-idsgame environment to automate threat mitigation and safeguard critical healthcare infrastructure.
 * [flower-recognition-agritech](https://github.com/alceblock/flower-recognition-agritech) - Computer Vision - End-to-end computer vision classifier deploying a pre-trained ConvNeXt Tiny architecture with customized multi-layer vocabulary matching to automate fine-grained botanical categorization for smart farming.
 * [food-image-classification](https://github.com/alceblock/food-image-classification) - Deep Learning with PyTorch - Deep transfer learning pipeline in PyTorch optimizing pre-trained VGG16 and ResNet18 backbones with custom multi-layer classifiers, AdamW discriminative fine-tuning, and OneCycleLR scheduling for highly accurate food image categorization.
